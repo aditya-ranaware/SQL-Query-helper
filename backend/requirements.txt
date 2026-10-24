@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic-settings
+
+langgraph>=1.0,<2.0
+langchain-groq
+sqlglot
